@@ -1,0 +1,34 @@
+{
+  "name": "buddhbhushan-portfolio-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.14.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.1.2",
+    "vite": "^5.2.0"
+  },
+  "description": "\"My Portfolio\"",
+  "main": "vite.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Buddhbhushan-Gaikwad/Buddhbhushan_Gaikwad_Portfolio.git"
+  },
+  "keywords": [
+    "protfolio"
+  ],
+  "author": "Buddhbhushan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Buddhbhushan-Gaikwad/Buddhbhushan_Gaikwad_Portfolio/issues"
+  },
+  "homepage": "https://github.com/Buddhbhushan-Gaikwad/Buddhbhushan_Gaikwad_Portfolio#readme"
+}
